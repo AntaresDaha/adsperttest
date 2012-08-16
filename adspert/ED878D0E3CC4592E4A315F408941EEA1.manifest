@@ -1,0 +1,19 @@
+CACHE MANIFEST
+# Unique id #1344970349107.0.5462293950197069
+
+CACHE:
+# Static app files
+index.html
+logo.png
+./
+
+# GWT compiled files
+adspert/ED878D0E3CC4592E4A315F408941EEA1.cache.html
+adspert/adspert.nocache.js
+adspert/clear.cache.gif
+adspert/hosted.html
+
+
+# All other resources require the client to be online.
+NETWORK:
+*
